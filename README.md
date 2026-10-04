@@ -65,11 +65,12 @@ Development and analysis of Reddit text corpora as part of a written natural lan
 
 **Focus:** Text data · Corpus analysis · Natural language processing
 
-### Weather data client–server application
+### [AEMET Weather API](https://github.com/evicentep/aemet-weather-api)
 
-A project that retrieves weather data from the AEMET API, stores it on a server and makes it available to a client application.
+A Flask REST API that retrieves and transforms AEMET forecasts and historical observations, with a Python client for visualising weather data.
 
-**Focus:** API integration · Data storage · Client–server architecture
+**Stack:** Python · Flask · Requests · Matplotlib  
+**Focus:** API integration · Data transformation · Client–server architecture
 
 ---
 
