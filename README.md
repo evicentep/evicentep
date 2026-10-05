@@ -51,19 +51,19 @@ I'm currently bringing these projects together into a documented portfolio, with
 
 ## Selected academic projects
 
-*Repository links will be added as the projects are published.*
+### [AquaSenseCloud — AWS temperature data pipeline](https://github.com/evicentep/aquasensecloud)
 
-### Cloud infrastructure with AWS
+A three-person academic project for processing temperature data, generating weekly and monthly summaries, sending alerts and serving results through a containerised API.
 
-A collaborative project developed for the High-Performance Computing Infrastructure course, using AWS to work with cloud infrastructure.
+**Stack:** Python · AWS S3 · Lambda · SNS · ECS · Docker · Flask · CloudFormation  
+**Focus:** Data pipelines · Cloud infrastructure · Team collaboration
 
-**Focus:** Cloud computing · Infrastructure · Team collaboration
+### [Reddit NLP Analysis](https://github.com/evicentep/reddit-nlp-analysis)
 
-### Natural language processing of Reddit corpora
+A two-person notebook-based study of subreddit classification, semantic similarity, summarisation and prompted moderation, with recorded results and evaluation limitations documented.
 
-Development and analysis of Reddit text corpora as part of a written natural language processing course.
-
-**Focus:** Text data · Corpus analysis · Natural language processing
+**Stack:** Python · scikit-learn · fastText · Transformers · PyTorch  
+**Focus:** Corpus analysis · Model comparison · Critical evaluation
 
 ### [AEMET Weather API](https://github.com/evicentep/aemet-weather-api)
 
